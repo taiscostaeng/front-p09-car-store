@@ -1,0 +1,65 @@
+.topo {
+    width: 100%;
+    background-color: #000;
+    border-bottom: 1px solid #d5960054;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.secao {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.paragrafo {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 450px;
+    text-align: justify;
+    line-height: 25px;
+}
+
+.paragrafo-topo {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.banner {
+    width: 100%;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+span,
+a,
+h1 {
+    color: darkorange;
+    font-weight: bold;
+}
+
+.link-topo {
+    margin: 20px;
+}
+
+.rodape {
+    color: white;
+    background-color: #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin: 0px 450px;
+}
